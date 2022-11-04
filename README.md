@@ -11,7 +11,6 @@ installing hardware.
  - Kaloyan Andreev 
     - 4408020
     - k.andreev@student.fontys.nl
-    - https://git.fhict.nl/I476236
 
 ## About developer
 -----------------------------------------
