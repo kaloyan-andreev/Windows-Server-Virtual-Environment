@@ -9,7 +9,6 @@ installing hardware.
 ## Autor
 -----------------------------------------
  - Kaloyan Andreev 
-    - 4408020
     - k.andreev@student.fontys.nl
 
 ## About developer
