@@ -18,3 +18,7 @@ installing hardware.
  - Kaloyan Andreev - age 19, born in Varna, Bulgaria. Graduated First Language School, he successfully achieved student level credential for completing 
    several IT courses: Cisco IT Essentials, Programing Basics with Python, C# Fundamentals. He also has experience in creating and developing websites. 
    You can contact him via email address: k.andreev@student.fontys.nl
+
+## Project status
+-----------------------------------------
+FINISHED
